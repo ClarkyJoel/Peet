@@ -1,0 +1,37 @@
+body{
+	background: url("../images/background.png") repeat;
+	margin: 0;
+}
+
+.clear{
+	clear: both;
+}
+
+#wrapper{
+	width: 1470px;
+}
+
+#banner-fade{
+	margin: 0 auto;
+}
+
+#slider ul{
+	margin: 0;
+	padding: 0;
+}
+
+.bjqs-next a{
+	background: url("../images/next.png") no-repeat;
+	height: 80px;
+	width: 22px;
+	text-indent: -9999px;
+	overflow: hidden;
+}
+
+.bjqs-prev a{
+	background: url("../images/Prev.png") no-repeat;
+	height: 80px;
+	width: 22px;
+	text-indent: -9999px;
+	overflow: hidden;
+}
