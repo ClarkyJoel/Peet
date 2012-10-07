@@ -336,7 +336,7 @@ ul{
 
 #content .promo li{
 	float: left;
-	padding: 0 5px;
+	padding: 0 4px;
 }
 
 #content .promo li:first-child{
@@ -361,4 +361,95 @@ ul{
 	font-family: MuseoSlab500;
 	padding-top: 35px;
 	margin: 0 auto;
+	padding-left: 220px;
+}
+
+#content .promo .thumbs{
+	padding-left: 2px;
+	padding-top: 26px;
+}
+
+#content .promo h3{
+	font-family: MuseoSlab500;
+	font-size: 20px;
+	color: #fff;
+	font-weight: 500;
+	width: 150px;
+	padding: 10px 0 10px 20px;
+	margin: 0;
+}
+
+#content .promo a{
+	color: #fff;
+	font-size: 13px;
+	font-weight: bold;
+	padding-left: 10px;
+}
+
+#content .promo a:hover{
+	text-decoration: underline;
+}
+
+#content .promo1{
+	background: url("../images/promo1Bg.png") no-repeat;
+	height: 382px;
+	width: 192px;
+}
+
+#content .promo2{
+	background: url("../images/promo2Bg.png") no-repeat;
+	height: 382px;
+	width: 198px;
+}
+
+#content .promo3{
+	background: url("../images/promo3Bg.png") no-repeat;
+	height: 382px;
+	width: 356px;
+}
+
+#content .promo4{
+	background: url("../images/promo4Bg.png") no-repeat;
+	height: 382px;
+	width: 199px;
+}
+
+#content .promo .description{
+	color: #fff;
+	font-size: 13px;
+	padding: 5px 0 5px 10px;
+}
+
+#content .promo .shopNow{
+	text-transform: uppercase;
+	color: #fff;
+	text-decoration: none;
+	background: #a9861d;
+	padding: 5px 10px;
+	box-shadow: 2px 2px 2px #1a1827;
+	font-size: 11px;
+}
+
+#content .promo1 .description{
+	width: 176px;
+	margin: 0;
+}
+
+#content .promo2 .description{
+	width: 176px;
+	margin: 0;
+}
+
+#content .promo3 .description{
+	width: 300px;
+	margin: 0;
+}
+
+#content .promo3 img{
+	cursor: pointer;
+}
+
+#content .promo4 .description{
+	width: 176px;
+	margin: 0;
 }

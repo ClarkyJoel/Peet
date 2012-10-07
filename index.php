@@ -36,8 +36,8 @@
 				</div>
 				<div id="banner-fade">
 					<ul class="bjqs">
-						<li><img src="images/slide-IMG-1.png" /></li>
-						<li><img src="images/slide-IMG-2.png" /></li>
+						<li><img src="images/Slide-IMG-1.png" /></li>
+						<li><img src="images/Slide-IMG-2.png" /></li>
 					</ul>
 					<div class="bannerAds">
 						
@@ -47,7 +47,7 @@
 							<span class="price">$14.95 per lb.</span>
 							<strong><a class="shopNow" href="#shopNow">Shop Now</a></strong>
 							<p class="description">Since 1969, Major Dickason’s blend has remained synonymous with Alfred Peet. Try a pound to discover Mr. Peet’s idea of the perfect cup.</p>
-							<img src="images/bannerAds.png" class="img2" />
+							<img src="images/BannerAds.png" class="img2" />
 						
 					</div>
 				</div>
@@ -74,22 +74,34 @@
 				<ul class="promo">
 					<li>
 						<div class="promo1">
-							<img src="images/promo1Bg.png" />
+							<h3>Save on fall flavors</h3>
+							<img src="images/thumbsPromo1.png" class="thumbs" />
+							<p class="description">Fall’s best drinks are here. Sip your way through them all.</p>
+							<a href="#GetaCoupon">Get a coupon >></a>
 						</div>
 					</li>
 					<li>
 						<div class="promo2">
-							<img src="images/promo2Bg.png" />
+							<h3>Indian Peaberry</h3>
+							<img src="images/thumbsPromo2.png" class="thumbs" />
+							<p class="description">Our favorite coffee in all of India. $13.95/lb.</p>
+							<strong><a class="shopNow" href="#shopNow">Shop Now</a></strong>
 						</div>
 					</li>
 					<li>
 						<div class="promo3">
-							<img src="images/promo3Bg.png" />
+							<h3>Brewing 101: French Press</h3>
+							<img src="images/thumbsPromo3.png" class="thumbs" />
+							<p class="description">Learn how to brew a more flavorful cup of Peet’s. Lorem ipsum dolor sit amet consectatur adipsicing.</p>
+							<a href="#WATCH">Watch the video >></a>
 						</div>
 					</li>
 					<li>
 						<div class="promo4">
-							<img src="images/promo4Bg.png" />
+							<h3>Put your order on automatic</h3>
+							<img src="images/thumbsPromo4.png" class="thumbs" />
+							<p class="description">Schedule a recurring order to save 50% on shipping.</p>
+							<a href="#ScheduleYourOrder">Schedule your order >></a>
 						</div>
 					</li>
 				</ul>
