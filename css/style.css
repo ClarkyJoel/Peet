@@ -322,3 +322,43 @@ ul{
 	color: #f3e4d1;
 }
 
+#content{
+	overflow: hidden;
+	margin-bottom: 70px;
+
+}
+
+#content .promo{
+	width: 970px;
+	margin: 0 auto;
+	height: 382px;
+}
+
+#content .promo li{
+	float: left;
+	padding: 0 5px;
+}
+
+#content .promo li:first-child{
+	padding-left: 0;
+}
+
+#content .promo li:last-child{
+	padding-right: 0;
+}
+
+#content .wideBannerPromo{
+	width: 970px;
+	margin: 0 auto;
+	margin-bottom: 5px;
+}
+
+#content .wideBannerPromo h3{
+	text-transform: uppercase;
+	color: #fff;
+	font-size: 24px;
+	position: absolute;
+	font-family: MuseoSlab500;
+	padding-top: 35px;
+	margin: 0 auto;
+}

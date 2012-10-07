@@ -25,7 +25,7 @@
 					</div>
 					<ul>
 						<li><a href="#CRAFT">Craft</a></li>
-						<li><a href="#COFFE">Coffe</a></li>
+						<li><a href="#COFFE">Coffee</a></li>
 						<li><a href="#TEA">Tea</a></li>
 						<li><a href="#STORE">Store</a></li>
 						<li><a href="#COMMUNITY">Community</a></li>
@@ -66,6 +66,33 @@
 			</div><!-- .HEADER -->
 			<div class="clear"></div>
 			<div id="content">
+				<div class="wideBannerPromo">
+					<h3>Designated space for wide banner promo</h3>
+					<img src="images/wideBannerPromoBg.png" />
+					
+				</div>
+				<ul class="promo">
+					<li>
+						<div class="promo1">
+							<img src="images/promo1Bg.png" />
+						</div>
+					</li>
+					<li>
+						<div class="promo2">
+							<img src="images/promo2Bg.png" />
+						</div>
+					</li>
+					<li>
+						<div class="promo3">
+							<img src="images/promo3Bg.png" />
+						</div>
+					</li>
+					<li>
+						<div class="promo4">
+							<img src="images/promo4Bg.png" />
+						</div>
+					</li>
+				</ul>
 			</div><!-- .CONTENT -->
 			<div class="clear"></div>
 			<div id="footer">
