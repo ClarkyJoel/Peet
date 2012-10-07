@@ -16,11 +16,11 @@
 				
 				<div id="navMenu">
 					<div class="aboveNavMenu">
-						<a href="#FINDPEETS" class="findPeet"><img src="images/findPeet.png" class="findPeetImg"  />Find Peet's</a>
+						<a href="#FINDPEETS" class="findPeet"><img src="images/findpeet.png" class="findPeetImg"  />Find Peet's</a>
 						<nav>
 							<a href="#AccountManager">Welcome, Ha Son</a> | 
 							<a href="#SignOut">Sign Out</a>
-							<a href="#Cart"><img src="images/buyIcon.png" class="cart" />2 Items</a>
+							<a href="#Cart"><img src="images/buyicon.png" class="cart" />2 Items</a>
 						</nav>
 					</div>
 					<ul>
@@ -31,23 +31,23 @@
 						<li><a href="#COMMUNITY">Community</a></li>
 					</ul>
 							
-						<img src="images/searchIcon.png" class="searchIcon" />
+						<img src="images/searchicon.png" class="searchIcon" />
 						<input id="search" type="text" maxlength="20" value="" placeholder="Search" />
 				</div>
 				<div id="banner-fade">
 					<ul class="bjqs">
-						<li><img src="images/Slide-IMG-1.png" /></li>
-						<li><img src="images/Slide-IMG-2.png" /></li>
+						<li><img src="images/slide-img-1.png" /></li>
+						<li><img src="images/slide-img-2.png" /></li>
 					</ul>
 					<div class="bannerAds">
 						
-							<img src="images/coffeIcon.png" class="img1" />
+							<img src="images/coffeicon.png" class="img1" />
 							<h2>Major<br> Dickason’s<br> Blend</h2>
 							<h3>Perfected 43 years ago.<br>Roasted daily ever since.</h3>
 							<span class="price">$14.95 per lb.</span>
 							<strong><a class="shopNow" href="#shopNow">Shop Now</a></strong>
 							<p class="description">Since 1969, Major Dickason’s blend has remained synonymous with Alfred Peet. Try a pound to discover Mr. Peet’s idea of the perfect cup.</p>
-							<img src="images/BannerAds.png" class="img2" />
+							<img src="images/bannerads.png" class="img2" />
 						
 					</div>
 				</div>
@@ -68,14 +68,14 @@
 			<div id="content">
 				<div class="wideBannerPromo">
 					<h3>Designated space for wide banner promo</h3>
-					<img src="images/wideBannerPromoBg.png" />
+					<img src="images/widebannerpromobg.png" />
 					
 				</div>
 				<ul class="promo">
 					<li>
 						<div class="promo1">
 							<h3>Save on fall flavors</h3>
-							<img src="images/thumbsPromo1.png" class="thumbs" />
+							<img src="images/thumbspromo1.png" class="thumbs" />
 							<p class="description">Fall’s best drinks are here. Sip your way through them all.</p>
 							<a href="#GetaCoupon">Get a coupon >></a>
 						</div>
@@ -83,7 +83,7 @@
 					<li>
 						<div class="promo2">
 							<h3>Indian Peaberry</h3>
-							<img src="images/thumbsPromo2.png" class="thumbs" />
+							<img src="images/thumbspromo2.png" class="thumbs" />
 							<p class="description">Our favorite coffee in all of India. $13.95/lb.</p>
 							<strong><a class="shopNow" href="#shopNow">Shop Now</a></strong>
 						</div>
@@ -91,7 +91,7 @@
 					<li>
 						<div class="promo3">
 							<h3>Brewing 101: French Press</h3>
-							<img src="images/thumbsPromo3.png" class="thumbs" />
+							<img src="images/thumbspromo3.png" class="thumbs" />
 							<p class="description">Learn how to brew a more flavorful cup of Peet’s. Lorem ipsum dolor sit amet consectatur adipsicing.</p>
 							<a href="#WATCH">Watch the video >></a>
 						</div>
@@ -99,7 +99,7 @@
 					<li>
 						<div class="promo4">
 							<h3>Put your order on automatic</h3>
-							<img src="images/thumbsPromo4.png" class="thumbs" />
+							<img src="images/thumbspromo4.png" class="thumbs" />
 							<p class="description">Schedule a recurring order to save 50% on shipping.</p>
 							<a href="#ScheduleYourOrder">Schedule your order >></a>
 						</div>
@@ -154,9 +154,9 @@
 				<div class="footerJoinUsMenu footerMenu">
 					<ul>
 						<h3>Join Us On</h3>
-						<li><a href="#Twitter"><img src="images/twitterIcon.png" />Twitter</a></li>
-						<li><a href="#Facebook"><img src="images/facebookIcon.png" />Facebook</a></li>
-						<li><a href="#Instagram"><img src="images/instagramIcon.png" />Instagram</a></li>
+						<li><a href="#Twitter"><img src="images/twittericon.png" />Twitter</a></li>
+						<li><a href="#Facebook"><img src="images/facebookicon.png" />Facebook</a></li>
+						<li><a href="#Instagram"><img src="images/instagramicon.png" />Instagram</a></li>
 					</ul>
 				</div>
 				<div class="copyright">
