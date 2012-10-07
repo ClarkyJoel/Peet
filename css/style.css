@@ -1,6 +1,33 @@
 body{
 	background: url("../images/background.png") repeat;
 	margin: 0;
+	font-family: Arial;
+}
+
+a{
+	text-decoration: none;
+}
+
+li{
+	list-style: none;
+	
+}
+
+ul{
+	margin: 0;
+	padding: 0;
+}
+
+@font-face{
+    font-family: MuseoSlab500;
+    src: url("../fonts/Museo_Slab_500.otf");
+    font-weight: 500;
+}
+
+@font-face{
+    font-family: MuseoSlab300;
+    src: url("../fonts/Museo_Slab_300.otf");
+    font-weight: 300;
 }
 
 .clear{
@@ -8,7 +35,9 @@ body{
 }
 
 #wrapper{
-	width: 1470px;
+	margin: 0 auto;
+    position: relative;
+    width: 1470px;
 }
 
 #banner-fade{
@@ -35,3 +64,261 @@ body{
 	text-indent: -9999px;
 	overflow: hidden;
 }
+
+.bannerAds{
+	left: 135px;
+    position: absolute;
+    top: 90px;
+	
+}
+
+.bannerAds .img1{
+	left: 50px;
+    position: absolute;
+    top: 340px;
+}
+
+.bannerAds a.shopNow{
+	text-transform: uppercase;
+	color: #fff;
+	position: absolute;
+	text-decoration: none;
+	background: #a9861d;
+	padding: 7px 10px;
+	top: 376px;
+	left: 180px;
+	box-shadow: 2px 2px 2px #1a1827;
+	font-size: 11px;
+}
+
+.bannerAds a:hover{
+	text-decoration: underline;
+}
+
+.bannerAds h2{
+	color: #fff;
+	position: absolute;
+	top: 85px;
+	left: 55px;
+	font-family: MuseoSlab500;
+	margin: 0;
+	font-size: 43px;
+	font-weight: normal;
+}
+
+.bannerAds h3{
+	position: absolute;
+	font-family: MuseoSlab500;
+	color: #fff;
+	top: 260px;
+	left: 55px;
+	margin: 0;
+	font-weight: normal;
+	font-size: 21px;
+}
+
+.bannerAds span.price{
+	position: absolute;
+	color: #fff;
+	top: 355px;
+	left: 180px;
+	font-size: 12px;
+}
+
+.bannerAds p.description{
+	color: #fff;
+	position: absolute;
+	top: 420px;
+	left: 180px;
+	width: 275px;
+	font-family: MuseoSlab300;
+	font-size: 15px;
+	margin: 0;
+}
+
+#logo{
+	position: absolute;
+	left: 250px;
+	z-index: 999;
+}
+
+#navMenu{
+	background: url("../images/navMenuBg.png") repeat-x;
+	height: 90px;
+	width: 1170px;
+	position: absolute;
+	z-index: 99;
+	left: 150px;
+}
+
+#navMenu ul{
+	margin: 0;
+	padding: 0;
+	position: relative;
+	left: 280px;
+	top: 50px;
+	width: 780px;
+	overflow: hidden;
+}
+
+#navMenu ul li{
+	float: left;
+	list-style: none;
+	padding: 8px 10px;
+	
+}
+
+#navMenu ul li a{
+	font-family: MuseoSlab500;
+	font-size: 14px;
+	color: #e8e2cf;
+	text-transform: uppercase;
+	padding: 8px 10px;
+}
+
+#navMenu ul li a:hover{
+	color: #fff;
+	background: #633d20;
+}
+
+#navMenu .aboveNavMenu{
+	position: absolute;
+	width: 780px;
+	left: 280px;
+	border-bottom: 1px solid #695a52;
+	height: 40px;
+}
+
+#navMenu .aboveNavMenu .findPeet{
+	padding-top: 10px;
+	font-family: MuseoSlab500;
+	font-size: 14px;
+	color: #f59439;
+	
+}
+
+#navMenu .aboveNavMenu .findPeetImg{
+	position: relative;
+	top: 10px;
+}
+
+#navMenu .aboveNavMenu nav{
+	float: right;
+	color: #fff;
+}
+
+#navMenu .aboveNavMenu nav a{
+	color: #fff;
+	font-size: 13px;
+
+}
+
+#navMenu .aboveNavMenu nav a:hover{
+	text-decoration: underline;
+}
+
+#navMenu .aboveNavMenu nav .cart{
+	position: relative;
+	top: 5px;
+	padding-left: 40px;
+}
+
+#search{
+	height: 26px;
+	width: 180px;
+	float: right;
+	position: relative;
+	right: 90px;
+	border: 1px solid #fff;
+	color: #fff;
+	font-size: 13px;
+	font-family: Arial;
+	background: none;
+	top: 15px;
+	padding-left: 10px;
+}
+
+.searchIcon{
+	position: relative;
+	float: right;
+	right: 115px;
+    top: 20px;
+}
+
+#footer{
+	background: url("../images/footerBg.png") repeat-x;
+	height: 316px;
+	padding-left: 250px;
+}
+
+#footer .footerMenu{
+	width: 160px;
+	float: left;
+	position: relative;
+	top: 25px;
+	padding-right: 15px;
+	z-index: 999;
+}
+
+#footer .footerMenu h3{
+	font-family: MuseoSlab500;
+	font-size: 12px;
+	text-transform: uppercase;
+	color: #f3e4d1;
+	font-weight: 500;
+	margin: 0 0 12px 0;
+}
+
+#footer .footerMenu a{
+	color: #c8a578;
+	line-height: 22px;
+	font-size: 13px;
+}
+
+#footer .footerMenu a:hover{
+	text-decoration: underline;
+}
+
+#footer .footerPrimaryLinks{
+	padding: 0 96px 0 0;
+}
+
+#footer .footerPrimaryLinks a{
+	font-weight: bold;
+	
+}
+
+#footer .footerJoinUsMenu{
+	padding: 0;
+}
+
+#footer .footerJoinUsMenu ul li{
+	padding-bottom: 10px;
+}
+
+#footer .footerJoinUsMenu img{
+	position: relative;
+	top: 8px;
+	padding-right: 10px;
+}
+
+#footer .copyright{
+	position: absolute;
+	padding-top: 270px;
+	font-size: 10px;
+}
+
+#footer .copyright a{
+	color:  #f3e4d1;
+	text-transform: uppercase;
+	padding-left: 15px;
+}
+
+#footer .copyright a:hover{
+	text-decoration: underline;
+}
+
+#footer .copyright span{
+	color: #f3e4d1;
+}
+
